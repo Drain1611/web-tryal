@@ -95,8 +95,8 @@ body {
   bottom: 0;
   background: linear-gradient(
     0deg,
-    rgb(62, 62, 62) 8%,
-    rgba(62, 62, 62, 0) 50%
+    rgb(62, 62, 62) 0%,
+    rgba(62, 62, 62, 0) 0%
   );
 }
 .hero .content {
